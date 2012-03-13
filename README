@@ -1,0 +1,29 @@
+Korea Sencha User Group, Development2 Weekend Team
+
+-서버: Tomcat 7.0.26
+http://tomcat.apache.org/
+
+-개발툴: Eclipse
+1. Eclipse Indigo (Now 3.7.2) 
+http://www.eclipse.org/downloads/
+
+-개발툴 플러그인: Aptana 
+1. Eclipse Main Menu - Help - Install New Software 클릭.
+2. 설치 플러그인 주소: 
+http://download.aptana.com/studio3/plugin/install
+3. 설치하기 및 완료
+
+-프로젝트
+이클립스: Dynamic Web Project
+
+-앱 접속 주소
+http://localhost:8080/senchaTok/
+
+
+
+-Node.js와 웹소켓 관련 자료
+http://cafe.naver.com/webappdev/19040
+http://cafe.naver.com/webappdev/9467
+
+
+
